@@ -2,7 +2,7 @@
 
 I'm learning data science bootcamp. There are 10 sprints in the program.
 
-## First part of the program
+## First Part of the Program
 
 - Intro to data science
 - Spreadsheets
@@ -11,7 +11,7 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 - Data Transformation
 - Data Visualization
 
-## Second part of the program
+## Second Part of the Program
 
 - Building website portfolio
 - Essential Statistics
