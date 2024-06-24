@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 9
 
-I'm learning data science bootcamp. There are 10 sprints in the program.
+I have completed a Data Science Bootcamp. There are 10 sprints in the program.
 
 ## First Part of the Program
 
